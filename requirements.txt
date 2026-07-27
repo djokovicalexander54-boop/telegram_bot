@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+openai
+beautifulsoup
+pyTelegramBotAPI
+python-telegram-bot
+os
+sqlite3
