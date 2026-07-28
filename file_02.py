@@ -20,7 +20,7 @@ connecting.execute('''
         )
     ''')
 data_program.commit()
-admin_id = 7737231906
+admin_id = ***
 MIN_list = []
 H_list = []
 W_list = []
